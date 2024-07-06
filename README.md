@@ -1,2 +1,2 @@
 # Car-Collection-Website-
-eha
+This project showcases a dynamic car collection website created using HTML, CSS, and JavaScript. It features a responsive design that adapts to different screen sizes, allowing users to explore various cars with detailed information such as model, year, and price. This project was developed as part of a college assignment and won recognition for its user-friendly interface and interactive features.
